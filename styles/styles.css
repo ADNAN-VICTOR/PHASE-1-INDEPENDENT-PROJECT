@@ -1,0 +1,11 @@
+#bodyContainer{
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+}
+#cardContainer {
+  
+}
+.card {
+    margin: 5%;
+}
