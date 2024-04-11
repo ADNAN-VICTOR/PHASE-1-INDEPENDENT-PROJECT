@@ -4,8 +4,21 @@
     flex-wrap: wrap;
 }
 #cardContainer {
-  
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
 }
-.card {
-    margin: 5%;
+.card{
+    margin: 2%;
+    color: white;
+}
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+.welcomePic{
+    background-color: green;
 }
