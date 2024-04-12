@@ -1,0 +1,309 @@
+{
+    "members": [
+        {
+            "First Name": "John",
+            "Last Name": "Odhiambo",
+            "Sport": "BasketBall",
+            "Club Position": "Team Captain",
+            "Fee Balance" :  0,
+            "Date for next payment": "12th October 2024"
+        },
+        {
+            "First Name": "Alice",
+            "Last Name": "Wambui",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "20th October 2024"
+        },
+        {
+            "First Name": "Michael",
+            "Last Name": "Mwangi",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1200,
+            "Date for next payment": "15th October 2024"
+        },
+        {
+            "First Name": "Emily",
+            "Last Name": "Kamau",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "18th October 2024"
+        },
+        {
+            "First Name": "David",
+            "Last Name": "Muthoni",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1500,
+            "Date for next payment": "10th October 2024"
+        },
+        {
+            "First Name": "Sarah",
+            "Last Name": "Njeri",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "22nd October 2024"
+        },
+        {
+            "First Name": "Joseph",
+            "Last Name": "Maina",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "14th October 2024"
+        },
+        {
+            "First Name": "Grace",
+            "Last Name": "Wanjiru",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1700,
+            "Date for next payment": "16th October 2024"
+        },
+        {
+            "First Name": "Daniel",
+            "Last Name": "Mwangi",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "25th October 2024"
+        },
+        {
+            "First Name": "Lucy",
+            "Last Name": "Muthoni",
+            "Sport": "BasketBall",
+            "Club Position": "Team Member",
+            "Fee Balance" :  2000,
+            "Date for next payment": "28th October 2024"
+        },
+        {
+            "First Name": "Peter",
+            "Last Name": "Waweru",
+            "Sport": "Volleyball",
+            "Club Position": "Team Captain",
+            "Fee Balance" :  0,
+            "Date for next payment": "12th October 2024"
+        },
+        {
+            "First Name": "Sarah",
+            "Last Name": "Kamau",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1800,
+            "Date for next payment": "20th October 2024"
+        },
+        {
+            "First Name": "David",
+            "Last Name": "Mwangi",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "15th October 2024"
+        },
+        {
+            "First Name": "Grace",
+            "Last Name": "Wanjiru",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "18th October 2024"
+        },
+        {
+            "First Name": "Joseph",
+            "Last Name": "Maina",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "10th October 2024"
+        },
+        {
+            "First Name": "Lucy",
+            "Last Name": "Muthoni",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "22nd October 2024"
+        },
+        {
+            "First Name": "Michael",
+            "Last Name": "Njoroge",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "14th October 2024"
+        },
+        {
+            "First Name": "Alice",
+            "Last Name": "Wairimu",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  2100,
+            "Date for next payment": "16th October 2024"
+        },
+        {
+            "First Name": "Daniel",
+            "Last Name": "Macharia",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "25th October 2024"
+        },
+        {
+            "First Name": "Emily",
+            "Last Name": "Wanjiku",
+            "Sport": "Volleyball",
+            "Club Position": "Team Member",
+            "Fee Balance" :  2200,
+            "Date for next payment": "28th October 2024"
+        },
+        {
+            "First Name": "Kevin",
+            "Last Name": "Omondi",
+            "Sport": "Swimming",
+            "Club Position": "Team Captain",
+            "Fee Balance" :  0,
+            "Date for next payment": "15th October 2024"
+        },
+        {
+            "First Name": "Linda",
+            "Last Name": "Njeri",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "18th October 2024"
+        },
+        {
+            "First Name": "Peter",
+            "Last Name": "Mwangi",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "10th October 2024"
+        },
+        {
+            "First Name": "Mary",
+            "Last Name": "Wambui",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "22nd October 2024"
+        },
+        {
+            "First Name": "Paul",
+            "Last Name": "Ogutu",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1600,
+            "Date for next payment": "14th October 2024"
+        },
+        {
+            "First Name": "Esther",
+            "Last Name": "Njoki",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "16th October 2024"
+        },
+        {
+            "First Name": "Samuel",
+            "Last Name": "Karanja",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "25th October 2024"
+        },
+        {
+            "First Name": "Catherine",
+            "Last Name": "Muthoni",
+            "Sport": "Swimming",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1900,
+            "Date for next payment": "28th October 2024"
+        }
+        {
+            "First Name": "James",
+            "Last Name": "Kiprop",
+            "Sport": "Football",
+            "Club Position": "Team Captain",
+            "Fee Balance" :  0,
+            "Date for next payment": "12th October 2024"
+        },
+        {
+            "First Name": "Susan",
+            "Last Name": "Wangari",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "20th October 2024"
+        },
+        {
+            "First Name": "Kevin",
+            "Last Name": "Ogolla",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "15th October 2024"
+        },
+        {
+            "First Name": "Mercy",
+            "Last Name": "Akinyi",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "18th October 2024"
+        },
+        {
+            "First Name": "George",
+            "Last Name": "Omondi",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1400,
+            "Date for next payment": "10th October 2024"
+        },
+        {
+            "First Name": "Esther",
+            "Last Name": "Achieng",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "22nd October 2024"
+        },
+        {
+            "First Name": "Patrick",
+            "Last Name": "Ochieng",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  1900,
+            "Date for next payment": "14th October 2024"
+        },
+        {
+            "First Name": "Rose",
+            "Last Name": "Njeri",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "16th October 2024"
+        },
+        {
+            "First Name": "Francis",
+            "Last Name": "Ouma",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  0,
+            "Date for next payment": "25th October 2024"
+        },
+        {
+            "First Name": "Ann",
+            "Last Name": "Wanjiku",
+            "Sport": "Football",
+            "Club Position": "Team Member",
+            "Fee Balance" :  2200,
+            "Date for next payment": "28th October 2024"
+        }
+        
+    ]
+}
