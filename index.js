@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
     //when view members is clicked it will display all members of the club
     if (viewAllMembers) {
         viewAllMembers.addEventListener('click', function() {
-            fetch('http://localhost:3000/members')
+            fetch('https://json-for-project.onrender.com/members')
                 .then(response => response.json())
                 .then(data => displayMembers(data));
         });
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const viewBasketBallMembers = document.getElementById('viewBasketBallMembers');
     if (viewBasketBallMembers) {
         viewBasketBallMembers.addEventListener('click', function() {
-            fetch('http://localhost:3000/members')
+            fetch('https://json-for-project.onrender.com/members')
                 .then(response => response.json())
                 .then(data => displayMembers(data, 'BasketBall'));
         });
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const viewVolleyBallMembers = document.getElementById('viewVolleyBallMembers');
     if (viewVolleyBallMembers) {
         viewVolleyBallMembers.addEventListener('click', function() {
-            fetch('http://localhost:3000/members')
+            fetch('https://json-for-project.onrender.com/members')
                 .then(response => response.json())
                 .then(data => displayMembers(data, 'Volleyball'));
         });
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const viewFootballMembers = document.getElementById('viewFootballMembers');
     if (viewFootballMembers) {
         viewFootballMembers.addEventListener('click', function() {
-            fetch('http://localhost:3000/members')
+            fetch('https://json-for-project.onrender.com/members')
                 .then(response => response.json())
                 .then(data => displayMembers(data, 'Football'));
         });
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const viewSwimmingMembers = document.getElementById('viewSwimmingMembers');
     if (viewSwimmingMembers) {
         viewSwimmingMembers.addEventListener('click', function() {
-            fetch('http://localhost:3000/members')
+            fetch('https://json-for-project.onrender.com/members')
                 .then(response => response.json())
                 .then(data => displayMembers(data, 'Swimming'));
         });
