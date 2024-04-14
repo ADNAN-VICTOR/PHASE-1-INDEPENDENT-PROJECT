@@ -1,5 +1,5 @@
 {
-    "members": [
+    "members":[ 
         {
             "First Name": "John",
             "Last Name": "Odhiambo",
@@ -223,7 +223,7 @@
             "Club Position": "Team Member",
             "Fee Balance" :  1900,
             "Date for next payment": "28th October 2024"
-        }
+        },
         {
             "First Name": "James",
             "Last Name": "Kiprop",
@@ -304,6 +304,5 @@
             "Fee Balance" :  2200,
             "Date for next payment": "28th October 2024"
         }
-        
     ]
 }
